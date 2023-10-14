@@ -16,8 +16,6 @@
 
 📚 Atualmente estudando C, Php, Banco de dados
 
-
-
 ### Sobre Mim
 
 Estudante de Engenharia de Software em busca de conhecimento e experiência no mundo da programação. Novo no campo, mas entusiasmado em aprender e crescer como desenvolvedor. Pronto para enfrentar desafios e colaborar em projetos empolgantes. Vamos codificar juntos! 🚀😊
@@ -26,11 +24,14 @@ Estudante de Engenharia de Software em busca de conhecimento e experiência no m
   <a href="https://instagram.com/antony_wippich" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antony-wippich-253168288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
 ### Habilidades
-<img style="margin-top: 40px;" align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Antonywpc&show_icons=true&theme=rose">
+
 - Linguagens de Programação: C, Php
+
 - Ferramentas: Git, Visual Studio Code
-- Metodologias: Desenvolvimento Ágil
+
+- Metodologias: Desenvolvimento Ágil 
 
 ### Objetivos
 
