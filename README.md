@@ -14,7 +14,7 @@
 
 🌍 Curitiba-PR, Brasil
 
-📚 Atualmente estudando C, Php, Banco de dados
+📚 Atualmente estudando javascript, Portugol, Banco de dados, html e css
 
 ### Sobre Mim
 
@@ -27,7 +27,7 @@ Estudante de Engenharia de Software em busca de conhecimento e experiência no m
   
 ### Habilidades
 
-- Linguagens de Programação: C, Php
+- Linguagens de Programação: C, Php, javascript, portugol
 
 - Ferramentas: Git, Visual Studio Code
 
